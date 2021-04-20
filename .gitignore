@@ -3,3 +3,7 @@
 bin
 obj
 packages
+Logs
+.vs
+/data.txt
+/.DS_Store
