@@ -1,10 +1,4 @@
-﻿var client = (function () {
-
-})();
-
-
-
-$(document).on("click", "#submit", function () {
+﻿$(document).on("click", "#submit", function () {
     var file = $("#fileUpload")[0].files[0];
 
     var formData = new FormData();
